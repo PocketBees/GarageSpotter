@@ -1,11 +1,12 @@
-
+//Design by Cody Knutson
+//Last change: 1/15/2015
 
 // HARDWARE:
 // Make the following connections between the EZ1, LEDs and the Arduino
 // +5V - +5V
 // GND - GND
 // AN - Analog In 0
-// "Slow down" LED - Pin slowLedPin
+// "Slow" LED - Pin slowLedPin
 // "Stop" LED - Pin stopLedPin
 
 const int slowLedPin =  3; //Slow down LED
